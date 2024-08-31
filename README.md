@@ -1,5 +1,6 @@
 # Tweet Emotion Recognition
 
+
 This repository contains a project focused on recognizing emotions from tweets using a Recurrent Neural Network (RNN) model. The project includes steps such as data preprocessing, tokenization, padding, label preparation, model training, and evaluation.
 
 ## Project Structure
